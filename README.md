@@ -1,2 +1,2 @@
 # ErasmusProjekts
-Erasmsus prakses ietvaros veidotais projekts
+Erasmsus prakses ietvaros pagrabā veidotais projekts
