@@ -10,3 +10,4 @@
 1. Instalēt minētos rīkus
 2. Testēt, vai kamera ir pareizi savienota, ievadot cmd komandu: **rs-enumerate-devices** (Rīks atrodas `<Intel RealSense SDK 2.0 instalācijas vieta>/tools/rs-enumerate-devices.exe` komandrindas vidē) (If the camera is connected properly, it should list details about the D455)
 3. Apskatīt IMU datus ar **RealSense View** programmu.
+4. Kalibrēt IMU ar `rs-imu-callibration` Python skriptu (dokumentācija https://github.com/IntelRealSense/librealsense/tree/development/tools/rs-imu-calibration, saitē lejupielādēt Python skriptu)
