@@ -12,4 +12,4 @@
 3. Apskatīt IMU datus ar **RealSense View** programmu.
 4. Kalibrēt IMU ar `rs-imu-callibration` Python skriptu (dokumentācija https://github.com/IntelRealSense/librealsense/tree/development/tools/rs-imu-calibration, saitē lejupielādēt Python skriptu)
 5. Instalēt **HailoRT** bibliotēku: https://github.com/hailo-ai/hailort
- 
+6. Iepazīties ar **HailoRT dokumentāciju** (jāreģistrē konts Hailo Develoepr Zone): https://hailo.ai/developer-zone/documentation/hailort-v4-20-0/
