@@ -1,11 +1,12 @@
 # ErasmusProjekts
 
 # Rīki
-* **Intel RealSense SDK 2.0**: https://github.com/IntelRealSense/librealsense/releases (atlasi `Intel.RealSense.SDK-WIN10-2.56.3.7838.beta.exe` Windows videi)
+* **Intel RealSense SDK 2.0**: https://github.com/IntelRealSense/librealsense/releases (atlasi `Intel.RealSense.SDK-WIN10-2.56.3.7838.beta.exe` Windows videi vai citu attiecīgai OS)
 * **Python 3.10**: https://www.python.org/downloads/release/python-3119/
   * Python pakotnes: `numpy`, `pyrealsense2`
   * Komandrindas vidē `pip install numpy pyrealsense2`
-* **HailoRT**: https://hailo.ai/developer-zone/software-downloads/ (Jāreģistrē konts un jāatlasa filtros operētājsistēmu *Windows* un Python versiju *3.10* un jāizvēlas pēdējo versiju)
+* **HailoRT**: https://hailo.ai/developer-zone/software-downloads/ (Jāreģistrē konts un jāatlasa filtros operētājsistēmu *Windows* vai citu attiecīgu OS un Python versiju *3.10* un jāizvēlas pēdējo versiju)
+* Windows sistēmās **Windows Subsystem for Linux** ar distribūciju **Ubuntu**: https://ubuntu.com/desktop/wsl
 
 # Darbības
 1. Instalēt minētos rīkus
