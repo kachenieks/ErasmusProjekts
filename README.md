@@ -2,9 +2,10 @@
 
 # Rīki
 * **Intel RealSense SDK 2.0**: https://github.com/IntelRealSense/librealsense/releases (atlasi `Intel.RealSense.SDK-WIN10-2.56.3.7838.beta.exe` Windows videi)
-* **Python 3.11**: https://www.python.org/downloads/release/python-3119/
+* **Python 3.10**: https://www.python.org/downloads/release/python-3119/
   * Python pakotnes: `numpy`, `pyrealsense2`
   * Komandrindas vidē `pip install numpy pyrealsense2`
+* **HailoRT**: https://hailo.ai/developer-zone/software-downloads/ (Jāreģistrē konts)
 
 # Darbības
 1. Instalēt minētos rīkus
