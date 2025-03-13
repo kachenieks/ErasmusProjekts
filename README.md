@@ -5,7 +5,7 @@
 * **Python 3.10**: https://www.python.org/downloads/release/python-3119/
   * Python pakotnes: `numpy`, `pyrealsense2`
   * Komandrindas vidē `pip install numpy pyrealsense2`
-* **HailoRT**: https://hailo.ai/developer-zone/software-downloads/ (Jāreģistrē konts)
+* **HailoRT**: https://hailo.ai/developer-zone/software-downloads/ (Jāreģistrē konts un jāatlasa filtros operētājsistēmu *Windows* un Python versiju *3.10* un jāizvēlas pēdējo versiju)
 
 # Darbības
 1. Instalēt minētos rīkus
