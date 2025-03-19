@@ -16,5 +16,4 @@
 3. Testēt, vai kamera ir pareizi savienota, ievadot cmd komandu: **rs-enumerate-devices** (Rīks atrodas `<Intel RealSense SDK 2.0 instalācijas vieta>/tools/rs-enumerate-devices.exe` komandrindas vidē) (If the camera is connected properly, it should list details about the D455)
 4. Apskatīt IMU datus ar **RealSense View** programmu.
 5. Kalibrēt IMU ar `rs-imu-callibration` Python skriptu (dokumentācija https://github.com/IntelRealSense/librealsense/tree/development/tools/rs-imu-calibration, saitē lejupielādēt Python skriptu)
-6. Instalēt **HailoRT** bibliotēku: https://github.com/hailo-ai/hailort
-7. Iepazīties ar **HailoRT dokumentāciju** (jāreģistrē konts Hailo Develoepr Zone): https://hailo.ai/developer-zone/documentation/hailort-v4-20-0/
+6. Iepazīties ar **HailoRT dokumentāciju** (jāreģistrē konts Hailo Develoepr Zone): https://hailo.ai/developer-zone/documentation/hailort-v4-20-0/
